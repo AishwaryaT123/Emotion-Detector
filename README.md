@@ -1,4 +1,4 @@
-# Emotion Detector
+# Final Project
 
 ## Project Name: Emotion Detector
 
