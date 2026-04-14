@@ -1,6 +1,6 @@
 # Emotion Detector
 
-## Project Name: oaqjp-final-project-emb-ai
+## Project Name: Emotion Detector
 
 An AI-based Emotion Detector web application built using Watson NLP and Flask.
 
